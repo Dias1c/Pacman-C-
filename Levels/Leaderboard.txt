@@ -1,0 +1,4 @@
+Dias	1000	5 lvl
+Temir	800	5 lvl
+Damir	700	5 lvl
+Aldiar	100	3 lvl
